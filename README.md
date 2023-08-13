@@ -3,9 +3,9 @@
 - pip install pandas
 - pip install matplotlib
 - pip install -U sckit-learn
--> *for dicrect install in jupyter notebook start from ! *
+  - _for dicrect install in jupyter notebook start from !_
   - for eg. pip install pandas
-## *For import library
+## For import library
 -import numpy as np
 -import pandas as pd
 -import matplotlib.pyplot as plt
